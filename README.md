@@ -2,7 +2,7 @@
 
 ## Selvitysvaiheen tehtävää
 
-* Näyttö (vaihtoehdot / saatavuus) ( )
+* Näyttö (vaihtoehdot / saatavuus) (x)
 * Prototyyppiohjaimen testaus (marko)
   * joystick
   * "buttonit"
@@ -10,7 +10,9 @@
 
 ## Laitteisto
 
-Alustava, mitään ei ole lyöty lukkoon.
+### Kabinetti
+
+Alustava kabinetti suunniteltu
 
 ### PC
 
@@ -18,13 +20,17 @@ Tällä hetkellä testikäytössä vanha HP:n desktop, kykenee N64 "sukupolveen"
 
 ### Näyttö
 
-20-24" CRT (VGA liitynnällä) tavoitteena (testikäytössä ~15-16" VGA), haussa mutta ei löytynyt
-Vastaava LCD mikäli ei vain onnistu löytymään? (Läbillä oleva isompi videomonitori(?) käytössä ollut Sony
-monitori ilmeisesti ei käy tarkoitukseen)
+Alkukokeilujen jälkeen näyttövaihtoehdot:
+- ensijainen (CRT) 19" LG 901B (saatavuus ei vielä varmistunut)
+- toissijainen (LCD) Dell 20" (useita läbillä)
 
 ### Dekooderi
 
 iPAC2 (USB HID) kahden pelaajan joystick (UDLF) + 8 näppäintä testauksessa
+
+### Näppäimet + joystick
+
+Tilauksessa (marko)
 
 ### "Käyttis"
 
