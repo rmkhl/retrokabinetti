@@ -30,7 +30,7 @@ iPAC2 (USB HID) kahden pelaajan joystick (UDLF) + 8 näppäintä testauksessa
 
 ### Näppäimet + joystick
 
-Tilauksessa (marko)
+Tilauksessa (http://www.smallcab.net/)
 
 ### "Käyttis"
 
